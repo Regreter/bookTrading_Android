@@ -1,0 +1,24 @@
+{
+  "name": "booktrading_android",
+  "version": "1.0.0",
+  "description": "Campus second hand book trading software Android",
+  "main": "main.js",
+  "dependencies": {
+    "@vant/weapp": "^1.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Regreter/bookTrading_Android.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Regreter/bookTrading_Android/issues"
+  },
+  "homepage": "https://github.com/Regreter/bookTrading_Android#readme",
+  "private": true
+}
