@@ -1,1 +1,1 @@
-<view class="_div data-v-71e217db"><view class="_h2 data-v-71e217db">首页</view><van-button vue-id="6b3d36ea-1" type="default" class="data-v-71e217db" bind:__l="__l" vue-slots="{{['default']}}">默认按钮</van-button></view>
+<view class="_div data-v-71e217db"><view class="_h2 data-v-71e217db">首页</view>1111111</view>
