@@ -1,4 +1,7 @@
 {
-  "navigationBarTitleText": "首页",
-  "usingComponents": {}
+  "navigationBarTitleText": "二手书市场",
+  "usingComponents": {
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar",
+    "uni-swiper-dot": "/components/uni-swiper-dot/uni-swiper-dot"
+  }
 }

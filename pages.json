@@ -8,7 +8,7 @@
 			"pagePath": "pages/home/index",
 			"iconPath": "static/tabbar/home.png",
 			"selectedIconPath": "static/tabbar/home_active.png",
-			"text": "首页"
+			"text": "二手书市场"
 		},{
 			"pagePath": "pages/shoppingCart/index",
 			"iconPath": "static/tabbar/shoppingCart.png",
@@ -30,7 +30,7 @@
 		{
 			"path": "pages/home/index",
 			"style": {
-				"navigationBarTitleText": "首页"
+				"navigationBarTitleText": "二手书市场"
 			}
 		},{
 			"path": "pages/shoppingCart/index",

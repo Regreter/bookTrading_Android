@@ -23,7 +23,7 @@
         "pagePath": "pages/home/index",
         "iconPath": "static/tabbar/home.png",
         "selectedIconPath": "static/tabbar/home_active.png",
-        "text": "首页"
+        "text": "二手书市场"
       },
       {
         "pagePath": "pages/shoppingCart/index",
@@ -45,6 +45,5 @@
       }
     ]
   },
-  "usingComponents": {},
-  "sitemapLocation": "sitemap6.json"
+  "usingComponents": {}
 }
