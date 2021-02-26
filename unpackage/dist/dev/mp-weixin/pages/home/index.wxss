@@ -1,0 +1,10 @@
+
+.home.data-v-71e217db {}
+.swiper-box.data-v-71e217db {
+  margin: 0px 15px 0 15px
+}
+.cart-btn.data-v-71e217db {
+  position: absolute;
+  right: 15px;
+}
+

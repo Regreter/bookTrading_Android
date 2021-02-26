@@ -3,6 +3,7 @@
     "pages/home/index",
     "pages/shoppingCart/index",
     "pages/message/index",
+    "pages/message/component/chatBox",
     "pages/my/index",
     "pages/login/index"
   ],
@@ -23,7 +24,7 @@
         "pagePath": "pages/home/index",
         "iconPath": "static/tabbar/home.png",
         "selectedIconPath": "static/tabbar/home_active.png",
-        "text": "二手书市场"
+        "text": "校园二手书"
       },
       {
         "pagePath": "pages/shoppingCart/index",
